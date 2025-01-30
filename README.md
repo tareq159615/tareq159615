@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tareq Aziz</h1>
 <h3 align="center">I Learn MERN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tareq159615&label=Profile%20views&color=0e75b6&style=flat" alt="tareq159615" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq159615" alt="tareq159615" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tareqaziz741" target="blank"><img src="https://img.shields.io/twitter/follow/tareqaziz741?logo=twitter&style=for-the-badge" alt="tareqaziz741" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
