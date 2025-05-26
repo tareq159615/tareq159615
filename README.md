@@ -62,3 +62,8 @@ I'm a passionate **Softower Developer** . I love building efficient and scalable
 ## 🌟LLD Simple Project
 https://github.com/tareq159615/LLD
 
+
+## 🌟Certificate 
+
+<a href="https://freecodecamp.org/certification/tareq_aziz/foundational-c-sharp-with-microsoft"> <img src="/assets/img/C#.png" alt="" height="auto" width="auto"></a>
+<a href="https://www.hackerrank.com/certificates/iframe/d6b9ec009e54"> <img src="/assets/img/sql_basic certificate.pdf" alt="" height="auto" width="auto"></a>
