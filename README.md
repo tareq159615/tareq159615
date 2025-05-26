@@ -65,5 +65,5 @@ https://github.com/tareq159615/LLD
 
 ## 🌟Certificate 
 
-<a href="https://github.com/tareq159615/tareq159615/blob/main/assets/img/C%23.png"> <img src="/assets/img/C#.png" alt="" height="auto" width="auto"></a>
+<a href="https://www.freecodecamp.org/certification/tareq_aziz/foundational-c-sharp-with-microsoft"> <img src="/assets/img/C#.png" alt="" height="auto" width="auto"></a>
 <a href="https://www.hackerrank.com/certificates/iframe/d6b9ec009e54"> <img src="/assets/img/sql_basic certificate.pdf.png" alt="" height="auto" width="auto"></a>
