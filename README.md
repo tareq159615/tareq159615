@@ -8,10 +8,10 @@
 ## 🌟 About Me  
 I'm a passionate **Softower Developer** . I love building efficient and scalable solutions that solve real-world problems.
 
-- 🖥️ Building secure, scalable, and modern systems.
-- 🌐 Working with **Next.js**, **React JS**, **Node JS**, **.NET** and more.
-- 🔒 Passionate about **Low level design**, **Softower Developer**.
-- 🚀 ​Efficient **OOPs Concepts (Object-Oriented Programming)**, **Advanced OOPs**
+;; - 🖥️ Building secure, scalable, and modern systems.
+;; - 🌐 Working with **Next.js**, **React JS**, **Node JS**, **.NET** and more.
+;; - 🔒 Passionate about **Low level design**, **Softower Developer**.
+;; - 🚀 ​Efficient **OOPs Concepts (Object-Oriented Programming)**, **Advanced OOPs**
 
 
 <br>
@@ -62,4 +62,8 @@ I'm a passionate **Softower Developer** . I love building efficient and scalable
 ## 🌟LLD Simple Project
 https://github.com/tareq159615/LLD
 
-## 🌟Spring Boot Framework
+
+## 🌟Certificate 
+
+<a href="https://freecodecamp.org/certification/tareq_aziz/foundational-c-sharp-with-microsoft"> <img src="/assets/img/C#.png" alt="" height="auto" width="auto"></a>
+<a href="https://www.hackerrank.com/certificates/iframe/d6b9ec009e54"> <img src="/assets/img/sql_basic certificate.pdf.png" alt="" height="auto" width="auto"></a>
