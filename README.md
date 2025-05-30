@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://leetcode.com/u/tareq741/"> <img src="/assets/img/sql_basic certificate.pdf.png" alt="" height="100px" width="100px"><img src="./assets/img/leetcode.png" alt="Coding Animation" width="100%"></a>
+<a href="https://leetcode.com/u/tareq741/"><img src="./assets/img/leetcode.png" alt="Coding Animation" width="100%"></a>
 </div>
 
 <div align="center">
