@@ -6,9 +6,6 @@
 <h1 align="center">Hi there! 👋 I'm <span style="color:blue">TAREQ AZIZ</span></h1>
 
 ## 🌟 About Me  
-I'm a passionate **Softower Developer** . I love building efficient and scalable solutions that solve real-world problems.
-
-
 
 <br>
 
