@@ -10,7 +10,6 @@
 <br>
 
 <div style="display:flex">
-  ;; <a href="https://expertdidar.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.linkedin.com/in/tareq-aziz-022392305/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.facebook.com/share/1FQmAS229d/"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.instagram.com/tareq_aziz741/?next=%2F"><img src="assets/INSTAGRAM.svg" alt="" height="35px" width="auto"></a>
