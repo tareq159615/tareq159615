@@ -8,10 +8,6 @@
 ## 🌟 About Me  
 I'm a passionate **Softower Developer** . I love building efficient and scalable solutions that solve real-world problems.
 
-;; - 🖥️ Building secure, scalable, and modern systems.
-;; - 🌐 Working with **Next.js**, **React JS**, **Node JS**, **.NET** and more.
-;; - 🔒 Passionate about **Low level design**, **Softower Developer**.
-;; - 🚀 ​Efficient **OOPs Concepts (Object-Oriented Programming)**, **Advanced OOPs**
 
 
 <br>
