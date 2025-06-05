@@ -19,36 +19,36 @@
 
 ---
 
-## 🛠️ Tech Stack  
+;; ## 🛠️ Tech Stack  
 
-<div style="display:flex">
-  <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Express.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
-</div>
+;; <div style="display:flex">
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/Express.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
+;;   <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
+;; </div>
 
-### Favourite Tools
+;; ### Favourite Tools
 
-<div style="display:flex">
-<img alt="" height="60px" width="60px"  src="assets/tech/WebStorm.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/PhpStorm.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/AndroidStudio.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/Azure.svg" />
-</div>
+;; <div style="display:flex">
+;; <img alt="" height="60px" width="60px"  src="assets/tech/WebStorm.svg" />
+;; <img alt="" height="60px" width="60px"  src="assets/tech/PhpStorm.svg" />
+;; <img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
+;; <img alt="" height="60px" width="60px"  src="assets/tech/AndroidStudio.svg" />
+;; <img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
+;; <img alt="" height="60px" width="60px"  src="assets/tech/Azure.svg" />
+;; </div>
 
----
+;; ---
 
 
 ## 🌟LLD Simple Project
