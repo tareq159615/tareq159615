@@ -16,10 +16,20 @@
   <a href="https://x.com/TareqAziz741"><img src="assets/TWITTER.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
+## 🌟Simple projects
+HTML + CSS + JavaScript -> <a href="https://cerulean-kashata-50763c.netlify.app/"> <img src="/assets/img/Project/p3.png" alt="" height="100px" width="100px"></a>
+HTML + CSS -> <a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
+
 
 ## 🌟React Frontend Projects
   <a href="https://reliable-vacherin-78a9d8.netlify.app/"> <img src="/assets/img/Project/p1.png" alt="" height="100px" width="100px"></a>
 
+## 🌟React Zustand Projects
+  <a href="https://recipe-app-liard-phi.vercel.app/"> <img src="/assets/img/Project/p2.png" alt="" height="100px" width="100px"></a>
+
+## 🌟Simple games projects
+# Simon Games
+  <a href="https://gamessimon.netlify.app/"> <img src="/assets/img/Project/p4.png" alt="" height="100px" width="100px"></a>
 
 ## 🌟LLD Simple Project
 https://github.com/tareq159615/LLD
