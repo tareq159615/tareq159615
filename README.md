@@ -17,8 +17,11 @@
 </div>
 <br>
 ## 🌟Simple projects
-HTML + CSS + JavaScript -> <a href="https://cerulean-kashata-50763c.netlify.app/"> <img src="/assets/img/Project/p3.png" alt="" height="100px" width="100px"></a>
-HTML + CSS -> <a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
+
+## ✅ HTML + CSS + JavaScript
+ <a href="https://cerulean-kashata-50763c.netlify.app/"> <img src="/assets/img/Project/p3.png" alt="" height="100px" width="100px"></a>
+## ✅ HTML + CSS 
+<a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
 
 
 ## 🌟React Frontend Projects
