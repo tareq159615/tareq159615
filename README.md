@@ -16,13 +16,12 @@
   <a href="https://x.com/TareqAziz741"><img src="assets/TWITTER.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
-## 🌟Simple projects
 
-## ✅ HTML + CSS + JavaScript
+## 🌟 HTML + CSS + JavaScript Simple projects
  <a href="https://cerulean-kashata-50763c.netlify.app/"> <img src="/assets/img/Project/p3.png" alt="" height="100px" width="100px"></a>
-## ✅ HTML + CSS 
-<a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
 
+## 🌟 HTML + CSS  Simple projects
+<a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
 
 ## 🌟React Frontend Projects
   <a href="https://reliable-vacherin-78a9d8.netlify.app/"> <img src="/assets/img/Project/p1.png" alt="" height="100px" width="100px"></a>
