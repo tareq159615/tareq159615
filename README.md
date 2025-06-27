@@ -24,7 +24,7 @@
 <a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
 
 ## 🌟React Frontend Projects
-✅E-Commerce-Advance(HTML+CSS+JavaScript) <a href="https://reliable-vacherin-78a9d8.netlify.app/"><h1>🔗</h1></a> 
+✅E-Commerce-Advance(HTML+CSS+JavaScript) <a href="https://reliable-vacherin-78a9d8.netlify.app/"><h3>🔗</h3></a> 
 
 ## 🌟React Zustand Projects
   <a href="https://recipe-app-liard-phi.vercel.app/"> <img src="/assets/img/Project/p2.png" alt="" height="100px" width="100px"></a>
