@@ -24,15 +24,14 @@
 <a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
 
 ## 🌟React Frontend Projects
-✅E-Commerce-Advance<a href="https://reliable-vacherin-78a9d8.netlify.app/"><h4>🔗</h4></a>(HTML+CSS+JavaScript) 
+✅<a href="https://reliable-vacherin-78a9d8.netlify.app/"><h4>E-Commerce-Advance</h4></a>(HTML+CSS+JavaScript) 
 
 ## 🌟React Zustand Projects
   <a href="https://recipe-app-liard-phi.vercel.app/"> <img src="/assets/img/Project/p2.png" alt="" height="100px" width="100px"></a>
 
 ## 🌟Simple games projects
 # Simon Games
-  <a href="https://gamessimon.netlify.app/"> <img src="/assets/img/Project/p4.png" alt="" height="100px" width="100px"></a>
-
+  <a href="https://gamessimon.netlify.app/"> <img src="/assets/img/Project/p4.png" alt="" height="100px" width="100px"></a
 ## 🌟LLD Simple Project
 https://github.com/tareq159615/LLD
 
