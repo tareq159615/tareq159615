@@ -17,22 +17,21 @@
 </div>
 <br>
 
-## 🌟 HTML + CSS + JavaScript Simple projects
- <a href="https://cerulean-kashata-50763c.netlify.app/"> <img src="/assets/img/Project/p3.png" alt="" height="100px" width="100px"></a>
+## 🌟 HTML + CSS + JavaScript projects
+- [Web app to desktop app in minutes](https://cerulean-kashata-50763c.netlify.app/)
 
-## 🌟 HTML + CSS  Simple projects
-<a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
+## 🌟 HTML + CSS projects
+- [E-Commerce](https://brandhuman.netlify.app/)
 
 ## 🌟React Frontend Projects :
 - [E-Commerce-Advance](https://reliable-vacherin-78a9d8.netlify.app/)
 
-
 ## 🌟React Zustand Projects
-  <a href="https://recipe-app-liard-phi.vercel.app/"> <img src="/assets/img/Project/p2.png" alt="" height="100px" width="100px"></a>
+- [Recipe Book](https://recipe-app-liard-phi.vercel.app/)
 
-## 🌟Simple games projects
-# Simon Games
-  <a href="https://gamessimon.netlify.app/"> <img src="/assets/img/Project/p4.png" alt="" height="100px" width="100px"></a
+## 🌟Games projects
+#[Simon Games](https://gamessimon.netlify.app/)
+
 ## 🌟LLD Simple Project
 https://github.com/tareq159615/LLD
 
