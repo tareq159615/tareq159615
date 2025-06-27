@@ -30,7 +30,7 @@
 - [Recipe Book](https://recipe-app-liard-phi.vercel.app/)
 
 ## 🌟Games projects
--[Simon Games](https://gamessimon.netlify.app/)
+- [Simon Games](https://gamessimon.netlify.app/)
 
 ## 🌟LLD Simple Project
 https://github.com/tareq159615/LLD
