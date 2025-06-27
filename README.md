@@ -23,8 +23,8 @@
 ## 🌟 HTML + CSS  Simple projects
 <a href="https://brandhuman.netlify.app/"> <img src="/assets/img/Project/p5.png" alt="" height="100px" width="100px"></a>
 
-## 🌟React Frontend Projects
-✅ [E-Commerce-Advance](https://reliable-vacherin-78a9d8.netlify.app/)
+## 🌟React Frontend Projects :
+- [E-Commerce-Advance](https://reliable-vacherin-78a9d8.netlify.app/)
 
 
 ## 🌟React Zustand Projects
