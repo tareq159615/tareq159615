@@ -28,7 +28,7 @@
 
 ## 🌟React Zustand Projects
 - [Recipe Book](https://recipe-app-liard-phi.vercel.app/)
-- [Meals Project(https://meals-project-ten.vercel.app/)
+- [Meals Project](https://meals-project-ten.vercel.app/)
 - [Expense Tracker](https://expense-tracker-iota-three-89.vercel.app/)
 
 ## 🌟Games projects
