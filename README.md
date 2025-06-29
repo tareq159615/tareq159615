@@ -27,10 +27,10 @@
 - [E-Commerce-Advance](https://reliable-vacherin-78a9d8.netlify.app/)
 
 ## 🌟React Zustand Projects
-- [Recipe Book🔗 ](https://recipe-app-liard-phi.vercel.app/) ➡️[See repository 🔗](https://github.com/tareq159615/Recipe-App)
-- [Meals Project🔗 ](https://meals-project-ten.vercel.app/)  ➡️[See repository🔗](https://github.com/tareq159615/Meals-Project)
-- [Expense Tracker🔗 ](https://expense-tracker-iota-three-89.vercel.app/) ➡️[See repository 🔗](https://github.com/tareq159615/Expense-Tracker)
-- [Form builder🔗 ](https://form-builder-5yla.vercel.app/)  ➡️[See repository 🔗](https://github.com/tareq159615/Form-Builder-)
+- [Recipe Book🔗](https://recipe-app-liard-phi.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Recipe-App)
+- [Meals Project🔗](https://meals-project-ten.vercel.app/)  ➡️ [See repository🔗](https://github.com/tareq159615/Meals-Project)
+- [Expense Tracker🔗](https://expense-tracker-iota-three-89.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Expense-Tracker)
+- [Form builder🔗](https://form-builder-5yla.vercel.app/)  ➡️ [See repository🔗](https://github.com/tareq159615/Form-Builder-)
 
 ## 🌟Games projects
 - [Simon Games](https://gamessimon.netlify.app/)
