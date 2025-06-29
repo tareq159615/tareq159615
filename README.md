@@ -18,13 +18,13 @@
 <br>
 
 ## 🌟 HTML + CSS + JavaScript projects
-- [Web app to desktop app in minutes](https://cerulean-kashata-50763c.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/My-Project_1)
+- [Web app to desktop app in minutes🔗](https://cerulean-kashata-50763c.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/My-Project_1)
 
 ## 🌟 HTML + CSS projects
-- [E-Commerce](https://brandhuman.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/MY-first-web)
+- [E-Commerce🔗](https://brandhuman.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/MY-first-web)
 
 ## 🌟React Frontend Projects :
-- [E-Commerce-Advance](https://reliable-vacherin-78a9d8.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/E-Commerce-Advance-Filteringsrc)
+- [E-Commerce-Advance🔗](https://reliable-vacherin-78a9d8.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/E-Commerce-Advance-Filteringsrc)
 
 ## 🌟React Zustand Projects
 - [Recipe Book🔗](https://recipe-app-liard-phi.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Recipe-App)
@@ -33,7 +33,7 @@
 - [Form builder🔗](https://form-builder-5yla.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Form-Builder-)
 
 ## 🌟Games projects
-- [Simon Games](https://gamessimon.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/simon_game)
+- [Simon Games🔗](https://gamessimon.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/simon_game)
 
 ## 🌟LLD Simple Project
 https://github.com/tareq159615/LLD 
