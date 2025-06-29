@@ -18,26 +18,25 @@
 <br>
 
 ## 🌟 HTML + CSS + JavaScript projects
-- [Web app to desktop app in minutes](https://cerulean-kashata-50763c.netlify.app/)
+- [Web app to desktop app in minutes](https://cerulean-kashata-50763c.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/My-Project_1)
 
 ## 🌟 HTML + CSS projects
-- [E-Commerce](https://brandhuman.netlify.app/)
+- [E-Commerce](https://brandhuman.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/MY-first-web)
 
 ## 🌟React Frontend Projects :
-- [E-Commerce-Advance](https://reliable-vacherin-78a9d8.netlify.app/)
+- [E-Commerce-Advance](https://reliable-vacherin-78a9d8.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/E-Commerce-Advance-Filteringsrc)
 
 ## 🌟React Zustand Projects
 - [Recipe Book🔗](https://recipe-app-liard-phi.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Recipe-App)
-- [Meals Project🔗](https://meals-project-ten.vercel.app/)  ➡️ [See repository🔗](https://github.com/tareq159615/Meals-Project)
+- [Meals Project🔗](https://meals-project-ten.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Meals-Project)
 - [Expense Tracker🔗](https://expense-tracker-iota-three-89.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Expense-Tracker)
-- [Form builder🔗](https://form-builder-5yla.vercel.app/)  ➡️ [See repository🔗](https://github.com/tareq159615/Form-Builder-)
+- [Form builder🔗](https://form-builder-5yla.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Form-Builder-)
 
 ## 🌟Games projects
-- [Simon Games](https://gamessimon.netlify.app/)
+- [Simon Games](https://gamessimon.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/simon_game)
 
 ## 🌟LLD Simple Project
-https://github.com/tareq159615/LLD
-
+https://github.com/tareq159615/LLD 
 
 ## 🌟Certificate 
 
