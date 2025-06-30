@@ -27,6 +27,8 @@
 - [E-Commerce-Advance🔗](https://reliable-vacherin-78a9d8.netlify.app/) ➡️ [See repository🔗](https://github.com/tareq159615/E-Commerce-Advance-Filteringsrc)
 
 ## 🌟React Zustand Projects
+- [Advance Task List App](https://advance-task-list-app.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Advance-Task-List-App)
+- [Advance todo list](https://react-zustand-todo-list-orcin.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/React-zustand-Todo-List)
 - [Recipe Book🔗](https://recipe-app-liard-phi.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Recipe-App)
 - [Meals Project🔗](https://meals-project-ten.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Meals-Project)
 - [Expense Tracker🔗](https://expense-tracker-iota-three-89.vercel.app/) ➡️ [See repository🔗](https://github.com/tareq159615/Expense-Tracker)
