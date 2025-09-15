@@ -40,7 +40,7 @@ I'm a firm believer in **clean code**, **SOLID principles**, and **design patter
 ### Full Stack (MERN)
 - **Web App to Desktop App**: A comprehensive MERN stack application showcasing full-stack development capabilities.
   - [Live Demo](https://mern-project-1-d7sj.onrender.com/)
-  - [Repository](https://github.com/tareq159615/My-Project_1)
+  - [Repository](https://github.com/tareq159615/mern-project-1)
 
 ### React.js Frontend
 - **E-Commerce-Advance**: An advanced e-commerce platform built with React, featuring sophisticated filtering and product management.
