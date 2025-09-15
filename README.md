@@ -14,7 +14,7 @@ Beyond coding, I'm an avid problem solver, constantly sharpening my skills on pl
 
 <br>
 ## 🌟 SHOW MY PORTFOLIO 
-<a href="https://fantastic-klepon-8e0dfc.netlify.app/"> <img src="assets/img/portfolio.jpg" alt="" height="25%" width="25%"></a>
+<a href="https://fantastic-klepon-8e0dfc.netlify.app/"> <img src="assets/img/portfolio.jpg" alt="" height="5%" width="5%"></a>
 <br>
 ## 🌟 Contact Me
 <div style="display:flex">
