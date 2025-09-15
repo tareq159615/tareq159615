@@ -14,10 +14,10 @@ Beyond coding, I'm an avid problem solver, constantly sharpening my skills on pl
 
 
 ## 🌟 SHOW MY PORTFOLIO 
-<a href="https://fantastic-klepon-8e0dfc.netlify.app/"> <img src="assets/img/portfolio.jpg" alt="" height="35px" width="auto"></a>
+<a href="https://fantastic-klepon-8e0dfc.netlify.app/"> <img src="assets/img/portfolio.jpg" alt="" height="30px" width="auto"></a>
 <br>
 
-## 🌟 Contact 
+## 🌟 Contact Me
 <div style="display:flex">
   <a href="https://www.linkedin.com/in/tareq-aziz-022392305/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.facebook.com/share/1FQmAS229d/"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
