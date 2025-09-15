@@ -1,66 +1,79 @@
 <div align="center">
-<a href="https://github.com/tareq159615"><img src="https://raw.githubusercontent.com/MicaelliMoraes/MicaelliMoraes/master/Assets/Header_animation.svg" alt="Coding Animation" width="100%"></a>
+<a href="https://leetcode.com/u/tareq741/"><img src="./assets/img/leetcode.png" alt="Coding Animation" width="100%"></a>
 </div>
 
 <div align="center">
-<h1 align="center">Hey there! I'm <span style="color:blue">Tareq Aziz</span> 👋</h1>
+<h1 align="center">Hello there! I'm <span style="color:blue">Tareq Aziz</span> 👋</h1>
 </div>
 
 ---
 
-## 🌟 About Me
-Hello! I'm Tareq, a passionate **Frontend Developer** based in Dhaka, Bangladesh. My journey in web development began with a strong curiosity for how things work, leading me to a Diploma in Computer Science & Engineering. I'm a firm believer in crafting applications that are not only **functional** but also provide a **seamless user experience**.
+## 🚀 About Me
+Hello! I'm Tareq, a **passionate Frontend Developer** based in Dhaka, Bangladesh. My journey into web development began with a strong curiosity for how things work, which led me to pursue a Diploma in Computer Science & Engineering. I thrive on building applications that are not only **functional** but also provide a **seamless and intuitive user experience**.
 
-My core expertise lies in the **React ecosystem**, but I'm also comfortable with backend technologies like **Node.js** and **Express**. I focus on writing **clean, maintainable code** and applying **SOLID principles** and **design patterns** to build scalable software. 
+My core expertise lies in the **React ecosystem**, where I build dynamic and responsive user interfaces. I'm also comfortable working on the backend with **Node.js** and **Express.js**, enabling me to contribute to full-stack solutions. I am a firm believer in writing **clean, maintainable code**, adhering to **SOLID principles**, and leveraging **design patterns** to create robust and scalable software.
 
-When I'm not coding, I'm an avid problem-solver, constantly sharpening my skills on platforms like LeetCode and GeeksforGeeks. This dedication to logical challenges translates directly into my development work, helping me approach complex problems with a structured and analytical mindset.
-
----
-
-## 💼 Portfolio & Projects
-Take a look at some of my work! For a full overview, you can visit my portfolio.
-
-**🌐 My Portfolio:** [fantastic-klepon-8e0dfc.netlify.app](https://fantastic-klepon-8e0dfc.netlify.app/)
-
-<br>
-
-### ⚙️ Full Stack Projects (MERN)
-- **Web App to Desktop App**: A full-stack application. [Live Demo](https://mern-project-1-d7sj.onrender.com/) | [Repository](https://github.com/tareq159615/My-Project_1)
+Beyond coding, I'm an avid problem solver, constantly sharpening my analytical skills on platforms like LeetCode and GeeksforGeeks. This dedication to logical challenges directly translates into my development work, helping me approach complex problems with a structured and efficient mindset.
 
 ---
 
-### ⚛️ React.js Frontend Projects
-- **Advanced E-Commerce App**: A React application with advanced filtering and features.
-  [Live Demo](https://reliable-vacherin-78a9d8.netlify.app/) | [Repository](https://github.com/tareq159615/E-Commerce-Advance-Filteringsrc)
+## 🌐 My Portfolio
+Explore my work and projects in more detail!
 
-- **Advance Task List App (Zustand)**: A state management-focused task list using Zustand.
-  [Live Demo](https://advance-task-list-app.vercel.app/) | [Repository](https://github.com/tareq159615/Advance-Task-List-App)
+**[Visit My Portfolio](https://fantastic-klepon-8e0dfc.netlify.app/)** ---
 
-- **Recipe Book**: An app to discover and manage recipes.
-  [Live Demo](https://recipe-app-liard-phi.vercel.app/) | [Repository](https://github.com/tareq159615/Recipe-App)
+## 🛠️ My Tech Stack
 
-- **Expense Tracker**: A clean and efficient expense tracking application.
-  [Live Demo](https://expense-tracker-iota-three-89.vercel.app/) | [Repository](https://github.com/tareq159615/Expense-Tracker)
-
----
-
-### 💻 Other Projects
-- **Simon Game**: A classic memory game built with HTML, CSS, and JavaScript.
-  [Live Demo](https://gamessimon.netlify.app/) | [Repository](https://github.com/tareq159615/simon_game)
-
-- **E-Commerce Static Site**: A responsive e-commerce landing page using HTML and CSS.
-  [Live Demo](https://brandhuman.netlify.app/) | [Repository](https://github.com/tareq159615/MY-first-web)
+| Frontend       | Backend    | Databases  | Tools       | Concepts         |
+|----------------|------------|------------|-------------|------------------|
+| React.js       | Node.js    | MongoDB    | Git         | RESTful APIs     |
+| JavaScript     | Express.js | SQL        | GitHub      | State Management |
+| HTML5          |            |            | VS Code     | Responsive Design|
+| CSS3           |            |            | Netlify     | CI/CD Basics     |
+| Tailwind CSS   |            |            | Vercel      |                  |
 
 ---
 
-## 🏆 Certifications
+## 🚀 Featured Projects
+
+### Full Stack (MERN)
+- **Web App to Desktop App**: A comprehensive MERN stack application showcasing full-stack development capabilities.
+  - [Live Demo](https://mern-project-1-d7sj.onrender.com/)
+  - [Repository](https://github.com/tareq159615/My-Project_1)
+
+### React.js Frontend
+- **E-Commerce-Advance**: An advanced e-commerce platform built with React, featuring sophisticated filtering and product management.
+  - [Live Demo](https://reliable-vacherin-78a9d8.netlify.app/)
+  - [Repository](https://github.com/tareq159615/E-Commerce-Advance-Filteringsrc)
+- **Advance Task List App (Zustand)**: A modern task management application leveraging Zustand for efficient state management.
+  - [Live Demo](https://advance-task-list-app.vercel.app/)
+  - [Repository](https://github.com/tareq159615/Advance-Task-List-App)
+- **Recipe Book**: Discover and manage your favorite recipes with this intuitive React application.
+  - [Live Demo](https://recipe-app-liard-phi.vercel.app/)
+  - [Repository](https://github.com/tareq159615/Recipe-App)
+
+### HTML, CSS & JavaScript
+- **Simon Game**: A classic memory game implemented with Vanilla JavaScript, HTML, and CSS.
+  - [Live Demo](https://gamessimon.netlify.app/)
+  - [Repository](https://github.com/tareq159615/simon_game)
+
+### HTML & CSS Only
+- **E-Commerce Landing Page**: A beautifully designed, responsive e-commerce front page.
+  - [Live Demo](https://brandhuman.netlify.app/)
+  - [Repository](https://github.com/tareq159615/MY-first-web)
+
+---
+
+## 🌟 Certifications
+I believe in continuous learning and skill validation. Here are some of my achievements:
+
 - **Foundational C# with Microsoft** | [Certificate](https://www.freecodecamp.org/certification/tareq_aziz/foundational-c-sharp-with-microsoft)
 - **HackerRank SQL (Basic)** | [Certificate](https://www.hackerrank.com/certificates/iframe/d6b9ec009e54)
 
 ---
 
-## 🤝 Let's Connect
-Feel free to reach out to me!
+## 🤝 Let's Connect!
+I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 <div align="center">
 <a href="https://www.linkedin.com/in/tareq-aziz-022392305/" target="_blank">
