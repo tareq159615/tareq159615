@@ -10,32 +10,28 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Tareq, a **passionate Frontend Developer** with a focus on building engaging and intuitive user interfaces. Based in Dhaka, Bangladesh, my journey into web development began with a strong curiosity for how things work, leading me to a Diploma in Computer Science & Engineering.
+Hello! I'm Tareq, a **passionate and results-driven Frontend Developer** based in Dhaka, Bangladesh. My journey into web development began with a strong curiosity and a desire to build things that matter. I hold a Diploma in Computer Science & Engineering, and I'm dedicated to creating applications that are not just functional but also a delight to use.
 
-My expertise is centered around the **React ecosystem**, where I enjoy crafting dynamic and responsive applications. While my primary focus is frontend, I'm also comfortable working on the backend with **Node.js** and **Express.js** to build full-stack solutions.
+My expertise is centered on the **React ecosystem**, where I specialize in building dynamic, responsive, and intuitive user interfaces. I'm also comfortable working on the backend with **Node.js** and **Express.js**, which allows me to contribute to full-stack solutions and understand the entire development lifecycle.
 
-I believe in the power of **clean code**, **SOLID principles**, and **design patterns** to create software that is not only functional but also scalable and easy to maintain. My passion for problem-solving extends beyond coding; I'm an avid learner and actively sharpen my skills on platforms like LeetCode and GeeksforGeeks.
+I'm a firm believer in **clean code**, **SOLID principles**, and **design patterns** for creating scalable and maintainable software. Beyond my daily development work, I am an avid problem-solver, constantly challenging myself on platforms like LeetCode and GeeksforGeeks to sharpen my analytical skills.
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tareq159615&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Tareq's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq159615&theme=buefy&hide_border=true" alt="Tareq's GitHub Streak" />
 </div>
 
----
-
-## 🛠️ My Tech Stack
-
-| Frontend       | Backend    | Databases  | Tools       | Concepts         |
-|----------------|------------|------------|-------------|------------------|
-| React.js       | Node.js    | MongoDB    | Git         | RESTful APIs     |
-| JavaScript     | Express.js | SQL        | GitHub      | State Management |
-| HTML5          |            |            | VS Code     | Responsive Design|
-| CSS3           |            |            | Netlify     | CI/CD Basics     |
-| Tailwind CSS   |            |            | Vercel      |                  |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin: 0 10px;">
+</p>
 
 ---
 
@@ -61,7 +57,7 @@ I believe in the power of **clean code**, **SOLID principles**, and **design pat
 
 ---
 
-## 🌐 My Portfolio & Certifications
+## 🌐 Portfolio & Certifications
 
 **[Visit My Portfolio](https://fantastic-klepon-8e0dfc.netlify.app/)**
 
@@ -73,7 +69,7 @@ I believe in the power of **clean code**, **SOLID principles**, and **design pat
 
 ## 🤝 Let's Connect!
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+I am always open to new opportunities and collaborations. Feel free to reach out and connect!
 
 <div align="center">
 <a href="https://www.linkedin.com/in/tareq-aziz-022392305/" target="_blank">
