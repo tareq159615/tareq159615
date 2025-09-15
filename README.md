@@ -8,19 +8,24 @@
 
 ---
 
-## 🚀 About Me
-Hello! I'm Tareq, a **passionate Frontend Developer** based in Dhaka, Bangladesh. My journey into web development began with a strong curiosity for how things work, which led me to pursue a Diploma in Computer Science & Engineering. I thrive on building applications that are not only **functional** but also provide a **seamless and intuitive user experience**.
+## 👨‍💻 About Me
 
-My core expertise lies in the **React ecosystem**, where I build dynamic and responsive user interfaces. I'm also comfortable working on the backend with **Node.js** and **Express.js**, enabling me to contribute to full-stack solutions. I am a firm believer in writing **clean, maintainable code**, adhering to **SOLID principles**, and leveraging **design patterns** to create robust and scalable software.
+Hello! I'm Tareq, a **passionate Frontend Developer** with a focus on building engaging and intuitive user interfaces. Based in Dhaka, Bangladesh, my journey into web development began with a strong curiosity for how things work, leading me to a Diploma in Computer Science & Engineering.
 
-Beyond coding, I'm an avid problem solver, constantly sharpening my analytical skills on platforms like LeetCode and GeeksforGeeks. This dedication to logical challenges directly translates into my development work, helping me approach complex problems with a structured and efficient mindset.
+My expertise is centered around the **React ecosystem**, where I enjoy crafting dynamic and responsive applications. While my primary focus is frontend, I'm also comfortable working on the backend with **Node.js** and **Express.js** to build full-stack solutions.
+
+I believe in the power of **clean code**, **SOLID principles**, and **design patterns** to create software that is not only functional but also scalable and easy to maintain. My passion for problem-solving extends beyond coding; I'm an avid learner and actively sharpen my skills on platforms like LeetCode and GeeksforGeeks.
 
 ---
 
-## 🌐 My Portfolio
-Explore my work and projects in more detail!
+## 📈 My GitHub Stats
 
-**[Visit My Portfolio](https://fantastic-klepon-8e0dfc.netlify.app/)** ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tareq159615&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Tareq's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq159615&theme=buefy&hide_border=true" alt="Tareq's GitHub Streak" />
+</div>
+
+---
 
 ## 🛠️ My Tech Stack
 
@@ -48,31 +53,26 @@ Explore my work and projects in more detail!
 - **Advance Task List App (Zustand)**: A modern task management application leveraging Zustand for efficient state management.
   - [Live Demo](https://advance-task-list-app.vercel.app/)
   - [Repository](https://github.com/tareq159615/Advance-Task-List-App)
-- **Recipe Book**: Discover and manage your favorite recipes with this intuitive React application.
-  - [Live Demo](https://recipe-app-liard-phi.vercel.app/)
-  - [Repository](https://github.com/tareq159615/Recipe-App)
 
 ### HTML, CSS & JavaScript
 - **Simon Game**: A classic memory game implemented with Vanilla JavaScript, HTML, and CSS.
   - [Live Demo](https://gamessimon.netlify.app/)
   - [Repository](https://github.com/tareq159615/simon_game)
 
-### HTML & CSS Only
-- **E-Commerce Landing Page**: A beautifully designed, responsive e-commerce front page.
-  - [Live Demo](https://brandhuman.netlify.app/)
-  - [Repository](https://github.com/tareq159615/MY-first-web)
-
 ---
 
-## 🌟 Certifications
-I believe in continuous learning and skill validation. Here are some of my achievements:
+## 🌐 My Portfolio & Certifications
 
+**[Visit My Portfolio](https://fantastic-klepon-8e0dfc.netlify.app/)**
+
+### Certifications
 - **Foundational C# with Microsoft** | [Certificate](https://www.freecodecamp.org/certification/tareq_aziz/foundational-c-sharp-with-microsoft)
 - **HackerRank SQL (Basic)** | [Certificate](https://www.hackerrank.com/certificates/iframe/d6b9ec009e54)
 
 ---
 
 ## 🤝 Let's Connect!
+
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 <div align="center">
