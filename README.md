@@ -6,9 +6,18 @@
 <h1 align="center">Hi there! 👋 I'm <span style="color:blue">TAREQ AZIZ</span></h1>
 
 ## 🌟 About Me  
+<h4>Hello! I'm Tareq, a developer based in Dhaka, Bangladesh. My journey into web development began with a strong curiosity for how things work, which led me to pursue a Diploma in Computer Science & Engineering. I thrive on building applications that are not only functional but also provide a seamless user experience.
 
+My expertise lies in the frontend, particularly with the React ecosystem, but I'm also comfortable working on the backend with Node.js and Express. I'm a firm believer in clean code, SOLID principles, and the power of design patterns to create maintainable and scalable software.
+
+Beyond coding, I'm an avid problem solver, constantly sharpening my skills on platforms like LeetCode and GeeksforGeeks. This passion for logical challenges directly translates into my development work, helping me to approach problems with a structured and analytical mindset.</h4>
+
+
+## 🌟 SHOW MY PORTFOLIO 
+<a href="https://fantastic-klepon-8e0dfc.netlify.app/"> <img src="assets/img/portfolio.jpg" alt="" height="35px" width="auto"></a>
 <br>
 
+## 🌟 Contact 
 <div style="display:flex">
   <a href="https://www.linkedin.com/in/tareq-aziz-022392305/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.facebook.com/share/1FQmAS229d/"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
