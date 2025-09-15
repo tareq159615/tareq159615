@@ -13,12 +13,9 @@ My expertise lies in the frontend, particularly with the React ecosystem, but I'
 Beyond coding, I'm an avid problem solver, constantly sharpening my skills on platforms like LeetCode and GeeksforGeeks. This passion for logical challenges directly translates into my development work, helping me to approach problems with a structured and analytical mindset.</h4>
 
 <br>
-
 ## 🌟 SHOW MY PORTFOLIO 
-<a href="https://fantastic-klepon-8e0dfc.netlify.app/"> <img src="assets/img/portfolio.jpg" alt="" height="50px" width="50px"></a>
-
+<a href="https://fantastic-klepon-8e0dfc.netlify.app/"> <img src="assets/img/portfolio.jpg" alt="" height="50%" width="50%"></a>
 <br>
-
 ## 🌟 Contact Me
 <div style="display:flex">
   <a href="https://www.linkedin.com/in/tareq-aziz-022392305/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
