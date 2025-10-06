@@ -37,12 +37,10 @@ I'm a firm believer in **clean code**, **SOLID principles**, and **design patter
 
 ## 🚀 Featured Projects
 
-### AI Virtual Assistant (MERN Stack)
-- **Engineered a voice-enabled AI assistant with user authentication, personalized profiles, and intelligent responses from Gemini AI.
+### Full Stack (MERN)
+- **Virtual Assistant**: An interactive virtual assistant application demonstrating full-stack capabilities.
   - [Live Demo](https://virtual-assistant-lpfc.onrender.com/)
   - [Repository](https://github.com/tareq159615/Virtual-Assistant)
-
-### Full Stack (MERN)
 - **Web App to Desktop App**: A comprehensive MERN stack application showcasing full-stack development capabilities.
   - [Live Demo](https://mern-project-1-d7sj.onrender.com/)
   - [Repository](https://github.com/tareq159615/mern-project-1)
