@@ -38,7 +38,7 @@ I'm a firm believer in **clean code**, **SOLID principles**, and **design patter
 ## 🚀 Featured Projects
 
 ### Full Stack (MERN)
-- ** Book Club**: MERN Full-Stack CRUD & Membership Platform
+- **Book Club**: MERN Full-Stack CRUD & Membership Platform
   - [Live Demo](https://book-management-app-frontend-chi.vercel.app/)
   - [Repository](https://github.com/tareq159615/Book-Management-app-frontend)
 - **Virtual Assistant**: An interactive virtual assistant application demonstrating full-stack capabilities.
